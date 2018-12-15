@@ -1,7 +1,7 @@
 function myTruck () {
-var side1=parseInt(document.getElementById("1st side").value);
-var side2=parseInt(document.getElementById("2and side").value);
-var  side3=parseInt(document.getElementById("3rd side").value);
+var side1=parseInt(document.getElementById("first side").value);
+var side2=parseInt(document.getElementById("second side").value);
+var  side3=parseInt(document.getElementById("thrid side").value);
 
 if (side1 === side2 && side1===side3 &&  side3===side2 ) {
    alret("equilateralTruck!");
