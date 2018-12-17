@@ -9,6 +9,11 @@ Open WEB BROWSER
 TEXT-EDIT
 ### BDD(BEHAVIOUR DRIVER DEVELOPMENT)
 
+| Behaviour  | INPUT  | OUTPUT |
+| :------------ |:---------------:| -----:|
+| When i put equal side will say equirateral triangle|(4,4,4)| Equirateral |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
 
 
 
