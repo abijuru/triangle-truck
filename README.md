@@ -18,7 +18,7 @@ TEXT-EDIT
 | When i put tree equal side number will say equirateral triangle|(4,4,4)| Equirateral |
 |When i put two equal side number will say isosceles triangle| (2,2,1)|Isosceles triangle   |
 | when i put tree side which are different will say scalene triangle|(2,3,4) | scalene |
-|            |                     |               |
+|when   if the sum of any two sides of the triangle is equal to or less than the third remaining side, then a triangle CANNOT| (1,2,3)           |  not triangle  |
 
 ### Technologies used
 ```
