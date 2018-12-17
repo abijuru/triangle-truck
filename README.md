@@ -2,3 +2,15 @@
 TRIANGLE TRUCKER PROJECT
 ### AUTHOR
 ELISABETH ABIJURU
+## PROJECT DESCRIPTION
+This is smart triangle trucker that allow to find belongings with push button.
+### SETUP INSTRUCTION
+Open WEB BROWSER
+TEXT-EDIT
+### BDD(BEHAVIOUR DRIVER DEVELOPMENT)
+
+
+
+
+
+
