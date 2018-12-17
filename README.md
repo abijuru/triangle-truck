@@ -34,7 +34,7 @@ TEL:(250)785434295
 Email:abijuruelisa@gmail.com
   ## link
 https://abijuru.github.io/triangle-truck/
- ##License and Copyright information
+ ## License and Copyright information
 
 This project is licensed under the MIT License - see the LICENSE.md file for details copyright@2018 by Elisabeth Abijuru . All right reserved
 
