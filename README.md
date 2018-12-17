@@ -13,7 +13,7 @@ TEXT-EDIT
 | :------------ |:---------------:| -----:|
 | When i put tree equal side number will say equirateral triangle|(4,4,4)| Equirateral |
 |When i put two equal side number will say isosceles triangle| (2,2,1)|Isosceles triangle   |
-| zebra stripes | are neat        |    $1 |
+| when i put tree side which are different will say scalene triangle|(2,3,4) | scalene    |
 
 
 
