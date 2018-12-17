@@ -36,10 +36,10 @@ alert(" that is not a triangle");
 
 var sides=["side1","side2", "side3"]
 sides.forEach(function(side){
-cconsole.log("side's number is" + side);
+console.log("side's number is" + side);
 });
 side1[0];
 side2[1];
-side3[2];
+side3[2]; 
 
 
