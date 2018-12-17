@@ -11,8 +11,8 @@ TEXT-EDIT
 
 | Behaviour  | INPUT  | OUTPUT |
 | :------------ |:---------------:| -----:|
-| When i put equal side will say equirateral triangle|(4,4,4)| Equirateral |
-| col 2 is      | centered        |   $12 |
+| When i put tree equal side number will say equirateral triangle|(4,4,4)| Equirateral |
+|When i put two equal side number will say isosceles triangle| (2,2,1)|Isosceles triangle   |
 | zebra stripes | are neat        |    $1 |
 
 
