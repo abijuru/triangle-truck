@@ -34,12 +34,12 @@ alert(" that is not a triangle");
 
 
 
-varmyTriangle=["Equilateral","Scalene", "Isosceles"]
-var myEquilateral=[("2,2,2") ("10,10,10")]
-var myScalene=[("10,5,8") ("")]
-var myIsosceles=[("12,12,13") ("9,8,8")]
-var myNottriangle=["1,2,3"]
-
-
+var sides=["side1","side2", "side3"]
+sides.forEach(function(side){
+cconsole.log("side's number is" + side);
+});
+side1[0];
+side2[1];
+side3[2];
 
 
